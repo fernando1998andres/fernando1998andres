@@ -850,41 +850,41 @@ public class Persianas {
             precio = 0+626900;
         }
         /*completando decima fila*/
-        else if(getLargo()<=100 && getAncho()<=190){
-            precio = 0+ 157400;
-        }else if (getLargo()<=130 && getAncho() <=190) {
-            precio = 0+190900;
-        }else if (getLargo()<=145 && getAncho() <=190) {
-            precio = 0+202000;
-        }else if (getLargo()<=160 && getAncho() <=190) {
-            precio = 0+216000;
-        }else if (getLargo()<=175 && getAncho() <=190) {
-            precio = 0+234600;
-        }else if (getLargo()<=190 && getAncho() <=190) {
-            precio = 0+248600;
-        }else if (getLargo()<=205 && getAncho() <=190) {
-            precio = 0+262600;
-        }else if (getLargo()<=220 && getAncho() <=190) {
-            precio = 0+277300;
-        }else if (getLargo()<=235 && getAncho() <=190) {
-            precio = 0+314000;
-        }else if (getLargo()<=250 && getAncho() <=190) {
-            precio = 0+328000;
-        }else if (getLargo()<=265 && getAncho() <=190) {
-            precio = 0+342000;
-        }else if (getLargo()<=280 && getAncho() <=190) {
-            precio = 0+356000;
-        }else if (getLargo()<=295 && getAncho() <=190) {
-            precio = 0+370000;
-        }else if (getLargo()<=310 && getAncho() <=190) {
-            precio = 0+383000;
-        }else if (getLargo()<=325 && getAncho() <=190) {
-            precio = 0+398000;
-        }else if (getLargo()<=340 && getAncho() <=190) {
-            precio = 0+412000;
+        else if(getLargo()<=100 && getAncho()<=330){
+            precio = 0+ 238700;
+        }else if (getLargo()<=130 && getAncho() <=330) {
+            precio = 0+292500;
+        }else if (getLargo()<=145 && getAncho() <=330) {
+            precio = 0+309800;
+        }else if (getLargo()<=160 && getAncho() <=330) {
+            precio = 0+332200;
+        }else if (getLargo()<=175 && getAncho() <=330) {
+            precio = 0+362000;
+        }else if (getLargo()<=190 && getAncho() <=330) {
+            precio = 0+384400;
+        }else if (getLargo()<=205 && getAncho() <=330) {
+            precio = 0+406800;
+        }else if (getLargo()<=220 && getAncho() <=330) {
+            precio = 0+429900;
+        }else if (getLargo()<=235 && getAncho() <=330) {
+            precio = 0+487400;
+        }else if (getLargo()<=250 && getAncho() <=330) {
+            precio = 0+509800;
+        }else if (getLargo()<=265 && getAncho() <=330) {
+            precio = 0+527200;
+        }else if (getLargo()<=280 && getAncho() <=330) {
+            precio = 0+554600;
+        }else if (getLargo()<=295 && getAncho() <=330) {
+            precio = 0+576900;
+        }else if (getLargo()<=310 && getAncho() <=330) {
+            precio = 0+608300;
+        }else if (getLargo()<=325 && getAncho() <=330) {
+            precio = 0+621700;
+        }else if (getLargo()<=340 && getAncho() <=330) {
+            precio = 0+643400;
         }
-        /*completando onceava fila*/
-        else if(getLargo()<=100 && getAncho()<=200){
+        /*completando fila de precios segun ancho 340*/
+        else if(getLargo()<=100 && getAncho()<=340){
             precio = 0+ 163200;
         }else if (getLargo()<=130 && getAncho() <=200) {
             precio = 0+198000;
